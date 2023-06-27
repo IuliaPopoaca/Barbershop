@@ -1,0 +1,14 @@
+
+
+
+.global-header .main-navigation a, .global-header .main-navigation a:visited{
+    color: white;
+}
+
+.global-header{
+    background-color: #333;
+}
+
+.global-header .main-navigation {
+    color: red;
+}
