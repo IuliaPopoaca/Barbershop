@@ -1,5 +1,31 @@
+:root{
+    --link-color: white ;
+    --text-font-family: "Open Sans", sans-serif; 
+    --heading-font-Family: "Raleway" , sans-serif;
 
+}
 
+h1, h2, h3, h4 , h5 , h6 {
+    font-weight: bold;
+    font-family: "Raleway" , sans-serif ;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.button{
+color: #FFFFFF;
+font-family: Open Sans;
+font-size: 12px;
+font-weight: 600;
+line-height: 16px;
+font-style: normal;
+letter-spacing: 0.09em;
+text-align: left;
+background-color: transparent;
+
+}
 
 .global-header .main-navigation a, .global-header .main-navigation a:visited{
     color: white;
