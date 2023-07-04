@@ -15,6 +15,7 @@ h1, h2, h3, h4 , h5 , h6 {
 
 .global-header{
     background-color: #363636;
+    padding: 40px 50px 40px 100px;
 }
 
 .global-header .main-navigation a,
@@ -66,9 +67,6 @@ ul{
     color: var(--link-active-color);
 }
 
-.phone-number{
-    text-transform: uppercase;
-}
 
 .hero-heading{
     color: var(--heading-color);
